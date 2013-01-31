@@ -1,4 +1,7 @@
-1.1.6
+1.1.7 (DD/MM/YY)
+-----
+
+1.1.6 (31/01/13)
 -----
 * Require grainstore 0.10.9, fixing an issue with multi-geom markers
 * Enhance run_tests.sh to allow running single tests and skipping preparation
